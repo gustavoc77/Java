@@ -2,8 +2,8 @@ package Aula07;
 
 public class Erro03 {
 
-	public static void Main(String[] args) {
-		//método Main não é o auto executável
+	public static void main(String[] args) {
+		
 		System.out.println("Teste");
 
 	}
