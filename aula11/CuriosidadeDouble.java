@@ -1,6 +1,6 @@
 package aula11;
 
-public class curiosidadeDouble {
+public class CuriosidadeDouble {
 
 	public static void main(String[] args) {
 

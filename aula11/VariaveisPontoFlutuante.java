@@ -1,4 +1,4 @@
-package Aula11;
+package aula11;
 
 public class VariaveisPontoFlutuante {
 
