@@ -1,4 +1,3 @@
-/*Faça um Programa que peça as 4 notas bimestrais e mostre a média.*/
 package exerciciosaula13;
 
 import java.util.Scanner;
