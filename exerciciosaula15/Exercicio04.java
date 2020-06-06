@@ -2,11 +2,11 @@ package exerciciosaula15;
 
 import java.io.IOException;
 import java.util.Scanner;
-public class Exercício04 {
+public class Exercicio04 {
 
-	// através da cláusula throws indicamos que não iremos
-	// tratar possíveis erros na entrada de dados realizada
-	// através do método "read" do pacote de classes System.in
+	// atravÃ©s da clÃ¡usula throws indicamos que nÃ£o iremos
+	// tratar possÃ­veis erros na entrada de dados realizada
+	// atravÃ©s do mÃ©todo "read" do pacote de classes System.in
 	public static void main(String[] args) throws IOException {
 		
 		Scanner scan = new Scanner(System.in);
@@ -25,8 +25,8 @@ public class Exercício04 {
 		case 'o':
 		case 'O':	
 		case 'u':
-		case 'U': System.out.println("A letra é vogal"); break;
-		default:  System.out.println("A letra é consoante");
+		case 'U': System.out.println("A letra Ã© vogal"); break;
+		default:  System.out.println("A letra Ã© consoante");
 		
 		}
 
